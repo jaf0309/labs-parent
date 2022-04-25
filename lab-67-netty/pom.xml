@@ -9,13 +9,10 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>lab-28</artifactId>
+    <artifactId>lab-67-netty</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>lab-28-task-demo</module>
-        <module>lab-28-task-quartz-memory</module>
-        <module>lab-28-task-quartz-jdbc</module>
-        <module>lab-28-task-xxl-job</module>
+        <module>lab-67-netty-demo</module>
     </modules>
 
 

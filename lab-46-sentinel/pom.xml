@@ -9,16 +9,13 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>lab-17</artifactId>
+    <artifactId>lab-46-sentinel</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>lab-17-dynamic-datasource-baomidou-01</module>
-        <module>lab-17-dynamic-datasource-baomidou-02</module>
-        <module>lab-17-dynamic-datasource-mybatis</module>
-        <module>lab-17-dynamic-datasource-springdatajpa</module>
-        <module>lab-17-dynamic-datasource-jdbctemplate</module>
-        <module>lab-17-dynamic-datasource-sharding-jdbc-01</module>
-        <module>lab-17-dynamic-datasource-sharding-jdbc-02</module>
+        <module>lab-46-sentinel-demo</module>
+        <module>lab-46-sentinel-demo-nacos</module>
+        <module>lab-46-sentinel-demo-apollo</module>
+        <module>lab-46-sentinel-demo-file</module>
     </modules>
 
 

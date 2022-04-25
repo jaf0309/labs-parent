@@ -24,6 +24,15 @@
         <module>lab-14-spring-jdbc-template</module>
         <module>lab-15-spring-data-es</module>
         <module>lab-16-spring-data-mongo</module>
+        <module>lab-17-baomidou</module>
+        <module>lab-26-distributed-session</module>
+        <module>lab-28-job</module>
+        <module>lab-31-rocketmq</module>
+        <module>lab-45-apollo</module>
+        <module>lab-46-sentinel</module>
+        <module>lab-57-hystrix</module>
+        <module>lab-64-grpc</module>
+        <module>lab-67-netty</module>
 
         <module>labx-01-spring-cloud-alibaba-nacos-discovery</module>
         <module>labx-02-spring-cloud-netflix-ribbon</module>
@@ -36,6 +45,8 @@
         <module>labx-09-spring-cloud-apollo</module>
         <module>labx-10-spring-cloud-stream-rabbitmq</module>
         <module>labx-11-spring-cloud-stream-kafka</module>
+        <module>labx-13-sleuth</module>
+        <module>labx-14-skyworking</module>
         <module>lab-12-mybatis</module>
         <module>lab-13-spring-data-jpa</module>
         <module>lab-14-spring-jdbc-template</module>

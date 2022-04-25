@@ -9,12 +9,18 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>lab-57</artifactId>
+    <artifactId>labx-14-skyworking</artifactId>
     <packaging>pom</packaging>
+
     <modules>
-        <module>lab-57-user-service</module>
-        <module>lab-57-hystrix-demo01</module>
-        <module>lab-57-hystrix-dubbo-demo</module>
+        <module>labx-14-sc-skywalking-springmvc</module>
+        <module>labx-14-sc-skywalking-feign</module>
+        <module>labx-14-sc-skywalking-springcloudgateway</module>
+        <module>labx-14-sc-skywalking-dubbo</module>
+
+        <module>labx-14-sc-skywalking-mq-rocketmq</module>
+        <module>labx-14-sc-skywalking-mq-rabbitmq</module>
+        <module>labx-14-sc-skywalking-mq-kafka</module>
     </modules>
 
 </project>
