@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>labx-17</artifactId>
+    <artifactId>labx-17-seata</artifactId>
     <packaging>pom</packaging>
     <modules>
         <module>labx-17-sca-seata-at-dubbo-demo</module>

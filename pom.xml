@@ -52,7 +52,9 @@
         <module>lab-14-spring-jdbc-template</module>
         <module>lab-15-spring-data-es</module>
         <module>lab-16-spring-data-mongo</module>
-<!--        <module>lab-17</module>-->
+        <module>lab-17-seata</module>
+        <module>lab-18-rabbitmq</module>
+        <module>lab-69-proxy</module>
 <!--        <module>lab-18</module>-->
 <!--        <module>lab-19</module>-->
 <!--        <module>lab-20</module>-->
