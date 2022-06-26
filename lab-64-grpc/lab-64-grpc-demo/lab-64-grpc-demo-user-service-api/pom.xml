@@ -44,6 +44,7 @@
                 <artifactId>os-maven-plugin</artifactId>
                 <version>${os-maven-plugin.version}</version>
             </extension>
+
         </extensions>
         <plugins>
             <!-- protobuf-maven-plugin 插件，通过 protobuf 文件，生成 Service 和 Message 类 -->

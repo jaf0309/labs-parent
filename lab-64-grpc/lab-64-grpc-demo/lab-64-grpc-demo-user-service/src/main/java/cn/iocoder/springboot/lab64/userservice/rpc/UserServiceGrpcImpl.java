@@ -1,8 +1,5 @@
 package cn.iocoder.springboot.lab64.userservice.rpc;
-
-import cn.iocoder.springboot.lab64.userservice.api.*;
-import io.grpc.stub.StreamObserver;
-import org.springframework.stereotype.Service;
+import cn.iocoder.springboot.lab64.userservice.api.*
 
 @Service
 public class UserServiceGrpcImpl extends UserServiceGrpc.UserServiceImplBase {
