@@ -28,11 +28,18 @@
         <module>lab-26-distributed-session</module>
         <module>lab-28-job</module>
         <module>lab-31-rocketmq</module>
+        <module>lab-36-prometheus</module>
         <module>lab-45-apollo</module>
         <module>lab-46-sentinel</module>
+        <module>lab-53-seata</module>
         <module>lab-57-hystrix</module>
         <module>lab-64-grpc</module>
         <module>lab-67-netty</module>
+
+
+
+
+
 
         <module>labx-01-spring-cloud-alibaba-nacos-discovery</module>
         <module>labx-02-spring-cloud-netflix-ribbon</module>
