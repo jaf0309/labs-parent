@@ -25,6 +25,8 @@
         <module>lab-15-spring-data-es</module>
         <module>lab-16-spring-data-mongo</module>
         <module>lab-17-baomidou</module>
+        <module>lab-18-sharding</module>
+        <module>lab-25-websocket</module>
         <module>lab-26-distributed-session</module>
         <module>lab-28-job</module>
         <module>lab-31-rocketmq</module>
