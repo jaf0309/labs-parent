@@ -55,7 +55,8 @@
         <module>labx-11-spring-cloud-stream-kafka</module>
         <module>labx-13-sleuth</module>
         <module>labx-14-skyworking</module>
-
+        <module>labx-17-seata</module>
+        <module>labx-18-rabbitmq</module>
         <module>labx-29-spring-cloud-consul-bus</module>
         <module>labx-30-spring-cloud-grpc</module>
         <module>lab-common</module>

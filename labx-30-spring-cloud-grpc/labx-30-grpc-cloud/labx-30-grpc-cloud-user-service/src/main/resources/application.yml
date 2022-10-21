@@ -13,4 +13,4 @@ grpc:
     port: 0 # gRPC Server 随机端口
 
 server:
-  port: 0 # Web Server 随机端口
+  port: 10080 # Web Server 随机端口
