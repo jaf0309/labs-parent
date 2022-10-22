@@ -35,6 +35,8 @@
         <module>lab-46-sentinel</module>
         <module>lab-53-seata</module>
         <module>lab-57-hystrix</module>
+        <module>lab-62-sofarpc</module>
+        <module>lab-63-motan</module>
         <module>lab-64-grpc</module>
         <module>lab-67-netty</module>
         <module>lab-69-proxy</module>
@@ -57,6 +59,10 @@
         <module>labx-14-skyworking</module>
         <module>labx-17-seata</module>
         <module>labx-18-rabbitmq</module>
+        <module>labx-19-kafka</module>
+        <module>labx-20-rocketmq</module>
+        <module>labx-21-zuul</module>
+        <module>labx-22-eureka</module>
         <module>labx-29-spring-cloud-consul-bus</module>
         <module>labx-30-spring-cloud-grpc</module>
         <module>lab-common</module>
