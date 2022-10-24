@@ -13,14 +13,15 @@ public class DemoController {
     @Autowired
     private DemoProducer producer;
 
-    @GetMapping("/rabbitmq")
+    @GetMapping("/send_delay")
     public String echo() {
-        this.sendMessage(1);
-        return "rabbitmq";
+        this.sendMessage();
+
+        return "ok";
     }
 
-    public void sendMessage(Integer id) {
-        producer.syncSend(id);
+    public void sendMessage() {
+        producer.syncSend();
     }
 
 }

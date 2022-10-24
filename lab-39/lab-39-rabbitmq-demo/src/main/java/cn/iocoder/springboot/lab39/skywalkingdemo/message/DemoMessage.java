@@ -4,23 +4,17 @@ import java.io.Serializable;
 
 public class DemoMessage implements Serializable {
 
-    public static final String QUEUE = "QUEUE_DEMO_";
-
-    public static final String EXCHANGE = "EXCHANGE_DEMO_";
-
-    public static final String ROUTING_KEY = "ROUTING_KEY_";
-
     /**
      * 编号
      */
-    private Integer id;
+    private Long id;
 
-    public DemoMessage setId(Integer id) {
+    public DemoMessage setId(Long id) {
         this.id = id;
         return this;
     }
 
-    public Integer getId() {
+    public Long getId() {
         return id;
     }
 
