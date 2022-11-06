@@ -6,9 +6,9 @@
         <!--        <artifactId>lab-62-sofarpc-xml-demo</artifactId>-->
         <!--        <groupId>cn.iocoder.springboot.labs</groupId>-->
         <!--        <version>1.0-SNAPSHOT</version>-->
-        <groupId>com.alipay.sofa</groupId>
-        <artifactId>sofaboot-dependencies</artifactId>
-        <version>3.3.2</version>
+        <groupId>cn.iocoder.springboot.labs</groupId>
+        <artifactId>lab-62-sofarpc-annotations-demo</artifactId>
+        <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
