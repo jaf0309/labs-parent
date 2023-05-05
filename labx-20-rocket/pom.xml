@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>labx-20</artifactId>
+    <artifactId>labx-20-rocketmq</artifactId>
     <packaging>pom</packaging>
 
     <modules>

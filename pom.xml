@@ -29,6 +29,7 @@
         <module>lab-25-websocket</module>
         <module>lab-26-distributed-session</module>
         <module>lab-28-job</module>
+        <module>lab-30-dubbo</module>
         <module>lab-31-rocketmq</module>
         <module>lab-36-prometheus</module>
         <module>lab-45-apollo</module>

@@ -1,0 +1,1 @@
+org.springframework.boot.env.EnvironmentpostProcessor=cn.iocoder.springboot.lab23.testdemo.base.MyJsonEnvironmentPostProcessor.java
