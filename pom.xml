@@ -32,6 +32,8 @@
         <module>lab-30-dubbo</module>
         <module>lab-31-rocketmq</module>
         <module>lab-36-prometheus</module>
+        <module>lab-39-skyworking</module>
+        <module>lab-40-zipkin</module>
         <module>lab-45-apollo</module>
         <module>lab-46-sentinel</module>
         <module>lab-53-seata</module>
